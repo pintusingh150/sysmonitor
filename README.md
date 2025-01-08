@@ -1,4 +1,4 @@
-# gomonitor
+# sysmonitor
  This is a small tool built in go to get the system metrics. For beginners, there is a brief steps on how to install and setup go for development. This tool development will involve utilizing the following Go concepts:
  - Variables and data types
  - Code Organization
